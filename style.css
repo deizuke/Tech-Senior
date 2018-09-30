@@ -1,0 +1,65 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.logo {
+    size: 30px;
+}
+.nav ul {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(83, 208, 224);
+    font-size: 20PX;
+    text-align: center;
+    list-style: none;
+    position: absolute;
+    top: 45px;
+    right: 0px;
+    margin: -25px;
+    
+}
+.nav ul li { display: inline;
+            margin:30px 70px;
+            
+
+
+}
+.nav{ width: 100%;
+    height: 70px;
+    background-color: white;
+    position: relative;
+    
+}
+
+.infos{
+    size: 100%;
+}
+.home {
+    background-image: url(img/home.jpg);
+    opacity: 0.7;
+    background-size: 100%;
+    height: 768PX;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 60px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+
+.quem-somos {  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 16px;
+    margin: 70px;}
+
+.produto {  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: 16px;
+        padding: 70px;
+        background-color: rgb(83, 208, 224);
+        color: white;}
+        
+
+.contato {  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 16px;
+    margin: 70px;
+    }
+
+
